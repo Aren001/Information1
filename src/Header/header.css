@@ -1,0 +1,15 @@
+.navbar {
+    background-image: linear-gradient(-225deg, #1D9EB4 0%, #2A9CB4 48%, #3282B4 100%);
+  }
+  li:hover{
+    background-color: #56B6CC;
+}
+.dropdown-item:hover{
+    background-color: #56B6CC;
+}
+ul>li{
+    margin-left: 50px;
+
+}
+
+  
